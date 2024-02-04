@@ -1,5 +1,3 @@
-# Commune
-
 Commune is an open source community platform, specifically designed for public-by-default communities. We serve projects that benefit from working in the open, perpetually improved by their wisdom of the crowd.
 
 Built as a Matrix server extension (Synapse only for now) combined with a custom client to make use of said extensions, Commune inverts some major norms of the mainstream Matrix experience:
@@ -13,11 +11,9 @@ With the Matrix protocol as a stable backbone, Commune acts as an accessibility 
 
 See this [comparison](https://github.com/commune-os/commune-server/discussions/23) for a better idea of how Commune compares to other chat/forum apps.
 
-[Commune](https://blog.erlend.sh/community-os-stack)
-
 ## Commune OS
 
-Our [GitHub org](https://github.com/commune-os) is called Commune OS because it contains not just Commune-chat, but all projects pertaining to a vision of a [modular yet interoperable](https://en.wikipedia.org/wiki/Unix_philosophy) “operating system“ for **digital communications**, also reflected in the channels of our Discord/Matrix(soon) space.
+Our [GitHub org](https://github.com/commune-os) is called Commune OS because it contains not just Commune-chat, but all projects pertaining to a vision of a modular yet interoperable “operating system“ for **digital communications**, also reflected in the channels of our Discord/Matrix(soon) space.
 
 ## Blog posts
 
